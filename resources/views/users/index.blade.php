@@ -12,6 +12,7 @@
   </script>
   <div class="container-fluid m-4">
     <h1 class="p-2 mt-3">List of Users</h1>
+    <a class="btn btn-primary" href="/create">Create user</a>
     <table class="table" id="taskTable">
       <thead class="thead">
         <tr>

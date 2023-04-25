@@ -26,6 +26,7 @@
         <input type="password" class="form-control" id="passwordUser">
       </div>
       <button type="submit" class="btn btn-primary mt-4" id="btnSubmit">Submit</button>
+      <a class="btn btn-success mt-4" href="/">Return</a>
     </form>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
